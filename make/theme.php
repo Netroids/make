@@ -29,7 +29,7 @@
 		<?= $Wcms->css() ?>
 		
 		<!-- Theme CSS -->
-		<style>*{box-sizing:border-box};html{font-family:inherit;font-size:inherit;}body{font-family:Inter,Arial,sans-serif;}a{color:inherit;}</style>
+		<style>*{box-sizing:border-box;}html{font-family:inherit;font-size:inherit;}body{font-family:Inter,Arial,sans-serif;}a{color:inherit;}</style>
 		<link rel="preconnect" href="https://rsms.me/">
 		<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 	</head>
