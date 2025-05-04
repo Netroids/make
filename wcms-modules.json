@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "make": {
+            "name": "Make",
+            "repo": "https://github.com/netroids/make/tree/master",
+            "zip": "https://github.com/netroids/make/archive/master.zip",
+            "summary": "WCMS starter theme.",
+            "version": "1.0.9",
+            "image": ""
+        }
+    }
+}
